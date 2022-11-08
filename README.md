@@ -1,6 +1,6 @@
 # Software-Requirements-Engineering-Artifacts
 
-The Software Requirements Speciifcations document is the culmination of all the work in my Requirements Engineering and Analysis class. Over the course of 16 weeks, I crafted this document by constantly communicating with a real-world business. The SRS serves as a demonstration of all the business knowledge I gained, with the primary goal being to craft an SRS that's as close to one in the real-world as possible.
+The Software Requirements Specifcations document is the culmination of all the work in my Requirements Engineering and Analysis class. Over the course of 16 weeks, I crafted this document by constantly communicating with a real-world business. The SRS serves as a demonstration of all the business knowledge I gained, with the primary goal being to craft an SRS that's as close to one in the real-world as possible.
 
 The Requirements Engineering Report is a hand-written report that demonstrates my knowledge of all four phases of the requirements engineering process: requirements elicitation, requirements analysis, requirements specification, and requirements validation. Each of these four stages has its own fully-detailed report.
 
